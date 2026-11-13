@@ -1,0 +1,48 @@
+Copyright (c) 2026 Shimako. All Rights Reserved.
+著作権表示: (c) 2026 Shimako. すべての権利を留保します。
+
+"ビカクの美学" (Bikaku no Bigaku) -- including its program code, pixel art
+and graphics, text and dialogue, data tables, game design documents, and
+BGM -- is proprietary. No license is granted except as stated below.
+「ビカクの美学」のプログラム、ドット絵などの画像、文章・セリフ、数値表・
+データ、設計文書、BGM は、下記を除き、いかなる利用も許諾していません。
+
+Permitted / 許可すること:
+  - Playing the game through the official pages (the GitHub Pages URL and
+    the itch.io page) for personal, non-commercial enjoyment.
+    公式のページ（GitHub Pages・itch.io）で、個人として遊ぶこと。
+  - Viewing and forking this repository on GitHub, solely to the extent
+    that GitHub's Terms of Service allow for public repositories.
+    GitHub の利用規約が公開リポジトリに認める範囲での閲覧とフォーク。
+    (A fork gives no right to copy, modify, publish or redistribute.)
+    （フォークしても、複製・改変・公開・再配布の権利は生じません。）
+
+Not permitted without prior written permission / 事前の書面による許可なく
+行ってはならないこと:
+  - Copying, modifying, translating, re-hosting or redistributing the game
+    or any part of it, in source or built form.
+    ゲームの全体または一部（ソース・ビルド後を問わず）の複製、改変、翻訳、
+    他所での公開、再配布。
+  - Using its code, art, text or data to make a similar or derivative work,
+    or using them in any commercial product, service or advertisement.
+    コード・絵・文章・データを使った類似作品・二次的著作物の制作、および
+    商用の製品・サービス・広告での利用。
+  - Removing or altering the author credit ("Created by Shimako") or this
+    notice.
+    作者表記（Created by Shimako）や本表示の削除・改変。
+
+Third-party components / 第三者の部分:
+  - Fonts (DotGothic16, M PLUS 1p, Shippori Mincho B1, Cinzel) are loaded
+    from Google Fonts and remain under their own licenses
+    (SIL Open Font License). They are not covered by this notice.
+    フォントは Google Fonts から読み込んでおり、各フォントのライセンス
+    （SIL Open Font License）に従います。本表示の対象外です。
+
+The game and its materials are provided "as is", without warranty of any
+kind.
+本ゲームおよび関連物は現状のまま提供され、いかなる保証もありません。
+
+Contact for permission requests: via the GitHub profile of the repository
+owner or the itch.io page of the game.
+許可の問い合わせ: リポジトリ所有者の GitHub プロフィール、またはゲームの
+itch.io ページから。
