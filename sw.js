@@ -1,7 +1,7 @@
 // ビカクの美学 Service Worker  (c) 2026 Shimako. All Rights Reserved.  Shimako-BK-89e60757b9e1
 // アプリを更新したら VERSION を上げる（index.html の APP_VERSION と合わせる）。
 // 上げないと、インストール済みの端末には古い版がキャッシュから出続ける。
-const VERSION = 'v4.10';
+const VERSION = 'v4.10.1';
 const PREFIX = 'ridleyi-hinpyokai-';
 const CACHE = PREFIX + VERSION;
 const ASSETS = [
